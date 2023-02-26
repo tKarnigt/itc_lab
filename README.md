@@ -1,2 +1,2 @@
 # itc_lab
-Introduction to Computer Engineering, Computer Engineering at KMITL
+Introduction to Computer Engineering, Arduino Labs at KMITL
